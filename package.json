@@ -1,7 +1,7 @@
 {
-  "name": "postcss-starter-pack",
+  "name": "manage-complexity-repo",
   "version": "1.0.0",
-  "description": "Starter Pack postCSS using npm, webpack and various plugins",
+  "description": "A technical course documentation about how to manage complexity in projects",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server",
@@ -9,17 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeIsaMystic/PostCSS-starter-pack.git"
+    "url": ""
   },
   "keywords": [],
   "author": "JoWd",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CodeIsaMystic/PostCSS-starter-pack/issues"
-  },
-  "homepage": "https://github.com/CodeIsaMystic/PostCSS-starter-pack#readme",
+  "bugs": {},
+  "homepage": "",
   "dependencies": {
-    "lodash": "^4.17.15",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
