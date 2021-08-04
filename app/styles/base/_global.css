@@ -36,13 +36,13 @@ a {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 300;
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 h2 {
-  font-size: 32px;
+  font-size: 42px;
   font-weight: 500;
 }
 
@@ -75,7 +75,7 @@ ul li {
 .box,
 .main-section {
   margin: 0 auto;
-  padding: 15px 30px 15px 60px;
+  padding: 15px 60px;
 }
 
 .box--title-header {
@@ -156,7 +156,7 @@ header .img-logo {
 }
 
 header .img-logo .logo {
-  width: 35px;
+  width: 30px;
 }
 
 header .navbar .navbar-left .nav-item {
@@ -167,7 +167,7 @@ header .navbar .navbar-left .nav-item {
 #main-doc {
   position: relative;
   width: 100vw;
-  margin: 85px 0 0;
+  margin: 73px 0 0;
   padding: 0;
 }
 #sidebar {
@@ -181,7 +181,7 @@ header .navbar .navbar-left .nav-item {
 
 #sidebar ul {
   position: fixed;
-  top: 120px;
+  top: 110px;
   left: 0;
   overflow-y: auto;
   overflow-x: hidden;
