@@ -21,7 +21,6 @@ body {
   font-weight: 200;
 }
 
-h2,
 h3,
 h4,
 h5,
@@ -43,7 +42,8 @@ h1 {
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 32px;
+  font-weight: 500;
 }
 
 a,
@@ -83,7 +83,7 @@ ul li {
   margin: 0 30px 0 0;
 }
 .box--subtitle {
-  padding: 45px 0 30px;
+  padding: 20px 0 10px;
 }
 .box--nestSubtitle {
   padding: 30px 0 20px;
@@ -94,7 +94,8 @@ ul li {
 }
 
 .box--link a {
-  color: #0f0f0f;
+  color: #1f1f1f;
+  font-weight: 400;
 }
 
 .box--text {
